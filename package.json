@@ -1,0 +1,16 @@
+{
+  "name": "no-accessibilty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.40.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.4"
+  }
+}
